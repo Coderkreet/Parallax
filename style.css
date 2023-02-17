@@ -66,17 +66,17 @@ padding:5rem 0;
 }
 .bg1{
 
-background-image: url(/image/Sport-1.jpg);
+background-image: url(./image/Sport-1.jpg);
 
 }
 .bg2{
 
-background-image: url(/image/sport-2.jpg);
+background-image: url(./image/sport-2.jpg);
 
 }
 .bg3{
 
-background-image: url(/image/sport-3.jpg);
+background-image: url(./image/sport-3.jpg);
 
 }
 .secheading{
